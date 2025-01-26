@@ -1,0 +1,19 @@
+{
+  "name": "coderjavascript",
+  "version": "1.0.0",
+  "description": "Presentación del Proyecto Final",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "--watch ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "coderjavascript": "file:",
+    "express": "^4.21.2"
+  }
+}

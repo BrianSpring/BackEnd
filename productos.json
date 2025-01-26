@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fanta",
+    "precio": 2500,
+    "imagen": "assets/img/producto1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Coca-Cola",
+    "precio": 3000,
+    "imagen": "assets/img/producto2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Arroz",
+    "precio": 1000,
+    "imagen": "assets/img/producto3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Milanesa de nalga",
+    "precio": 2100,
+    "imagen": "assets/img/producto4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Milanesa de peceto",
+    "precio": 2100,
+    "imagen": "assets/img/producto5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Fideos Lucchetti Spaghetti",
+    "precio": 1000,
+    "imagen": "assets/img/producto6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Fideos Lucchetti Codito",
+    "precio": 800,
+    "imagen": "assets/img/producto7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Pack 12 Hamburguesas",
+    "precio": 4000,
+    "imagen": "assets/img/producto8.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Pan",
+    "precio": 600,
+    "imagen": "assets/img/producto9.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Lechuga",
+    "precio": 1000,
+    "imagen": "assets/img/producto10.jpg"
+  }
+
+]
